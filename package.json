@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavmadake/NodeJs.git"
+  },
+  "author": "VB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavmadake/NodeJs/issues"
+  },
+  "homepage": "https://github.com/vaibhavmadake/NodeJs#readme"
+}
